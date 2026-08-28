@@ -1,5 +1,6 @@
 # time-pressure
-Analyzing the effect of time pressure in chess
+
+**Implementation of the analyses described in Kuperwajs, Russek, Schut, Sagiv, Mattar, Ma, and Griffiths (2026).**
 
 ## Approach
 
